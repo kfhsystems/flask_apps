@@ -1,0 +1,11 @@
+
+Date: April 30, 2024
+# Create the repo "kfhsystems/flask_apps" on GitHub
+
+=> cd /Volumes/KFH/KFH_Development/Web-Dev/Frameworks/Projects/Flask/apps
+=> git init
+=> git branch -m master main
+=> git add .
+=> git commit -m "initial steps"
+=> git remote add origin https://github.com/kfhsystems/flask_apps.git
+=> git push -u origin main
